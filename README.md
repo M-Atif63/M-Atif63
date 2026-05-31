@@ -1,4 +1,4 @@
 <h1>About </h1>
 
-<h3>Hi 👋</h3>
-<h3>I am Muhammed Atif Ali</h3>
+<h2>Hi 👋</h2>
+<h2>I am Muhammed Atif Ali</h2>
